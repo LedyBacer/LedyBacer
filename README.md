@@ -18,7 +18,7 @@
 - E-mail: dybov.nikita.v@gmail.com<br>
 - Telegram: https://t.me/dybovnick
 </p>
-<h3 align="left">Links to my services 🕒</h3>
+<h3 align="left">Links to my services 🕒:</h3>
 <p align="left">
 - <a href="http://5.42.84.161:3001/status/all-services">Uptime Kuma<a>
 </p>
