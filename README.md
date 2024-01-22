@@ -20,7 +20,7 @@
 </p>
 <h3 align="left">Links to my services 🕒:</h3>
 <p align="left">
-- <a href="http://5.42.84.161:3001/status/all-services">Uptime Kuma<a>
+- <a href="http://bacer.ru/">Uptime Kuma<a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
