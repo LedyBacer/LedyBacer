@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">A beginner frontend developer from Russia</h3>
+<h3 align="center">A frontend developer from Russia</h3>
 
 - 🔥 Passionate about working on real-world projects and making a significant impact.
 - 🌐 Proficient in frontend technologies like HTML5, CSS3, and JavaScript (ES6+).
