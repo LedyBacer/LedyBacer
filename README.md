@@ -12,7 +12,7 @@
 
 I'm Nikita (Bacer), a **software engineer who enjoys working across the stack** — from user-facing applications and backend services to networking, graphics, and low-level systems.
 
-Professionally, I have **2+ years of full-stack development experience**, building web interfaces, APIs, and the services behind them. I primarily work with TypeScript, React, Python, and PostgreSQL.
+Professionally, I have **3+ years of full-stack development experience**, building web interfaces, APIs, and the services behind them. I primarily work with TypeScript, React, Python, and PostgreSQL.
 
 Beyond web development, I explore native applications, real-time game streaming, GPU-accelerated graphics and video, Linux networking, and self-hosted infrastructure. I enjoy debugging complex problems, measuring performance, and understanding how systems work under the hood.
 
